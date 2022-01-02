@@ -1,0 +1,35 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+    padding: 25px;
+}
+html, body { margin:0px; padding:0px; }
+
+footer{
+  margin-left: 250px;
+
+  }
+  
+  footer p{
+  
+    color: #fff;
+    
+    margin: 10px 0;
+    
+    }
+
+ img {
+   position: relative;
+   width: 10%;
+   margin-left: 25px;
+ }
+
+ .logo a {
+   background: url("https://rs.school/images/rs_school_js.svg") no-repeat center;
+   display: block;
+   background-size: 150px 150px;
+   width: 150px;
+   height: 150px;
+ }
